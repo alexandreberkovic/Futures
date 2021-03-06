@@ -2,4 +2,5 @@ This repository consists of two codes created for DE3's Futures module. The idea
 
 Proof of concepts algorithms are created:   
 -  An NLP algorithm is created to help determine the overall sentiment of a sentence (binary output: positive or negative)  
+-  Another NLP algorithm which adds granularity to the previous one  
 -  An OpenCV algorithm is created to help determine a person's emotional status depending on their facial expression (five possible emotion outputs) 
