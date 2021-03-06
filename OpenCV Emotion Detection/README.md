@@ -1,9 +1,9 @@
 Download the entire folder:
-	- model.ipynb file is the CNN for recognition
-	- EmotionDetectionModel.h5 file is the loaded model
-	- fer2013 is the dataset
-	- Flask is the code to run when using flask (not our case)
-	- Without Flask is the folder to use 
+	- model.ipynb file is the CNN for recognition  
+	- EmotionDetectionModel.h5 file is the loaded model  
+	- fer2013 is the dataset  
+	- Flask is the code to run when using flask (not our case)  
+	- Without Flask is the folder to use  
 
 Language: Python
 Librairies:
