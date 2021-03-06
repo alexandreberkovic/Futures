@@ -1,3 +1,5 @@
+The developed model is an emotion recognition algorithm using a CNN and OpenCV for live detection.  
+
 Download the entire folder:  
 	- model.ipynb file is the CNN for recognition  
 	- EmotionDetectionModel.h5 file is the loaded model  
