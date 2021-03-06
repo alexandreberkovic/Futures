@@ -1,0 +1,1 @@
+This repository consists of two codes created for DE3's Futures module. The idea behind the project is to create an empathetic predictive system to ensure better treatment of people with dementia at home. 
