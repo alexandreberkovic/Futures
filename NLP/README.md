@@ -1,5 +1,6 @@
-The code above is a predictive sentiment analysis using NLTK library and a simple Baysian Classifier 
-to output a binary prediction on the sentence's overal sentiment: positive or negative. 
+The code above is a predictive sentiment analysis using NLTK library and a simple Baysian Classifier to output a binary prediction on the sentence's overal sentiment: positive or negative. The code architecture is shown in the figure below.  
+
+![NLP Architecture](Diagrams/nlp.png)
 
 Language: Python  
 Librairies:  
