@@ -1,4 +1,6 @@
-The developed model is an emotion recognition algorithm using a CNN and OpenCV for live detection.  
+The developed model is an emotion recognition algorithm using a CNN and OpenCV for live detection. The architecture of the algorithm is shown in the figure below.  
+
+![CNN Architecture](/Diagrams/cv.png)
 
 Download the entire folder:  
 	- model.ipynb file is the CNN for recognition  
