@@ -1,6 +1,6 @@
 The algorithm works as follows:
 
-![Trial](Diagrams/gif.gif)
+![Trial](Diagrams/emotion.gif)
 
 The developed model is an emotion recognition algorithm using a CNN and OpenCV for live detection. The architecture of the algorithm is shown in the figure below.  
 
